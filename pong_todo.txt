@@ -1,0 +1,11 @@
+1. have score divs display text
+
+2. center the field - DONE
+
+3. have game restart at score = 10 -DONE
+
+4. have AI paddle be imperfect - DONE
+
+—— at end:
+
+5. make everything into objects
